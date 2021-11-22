@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bruse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bruse\\.nuget\\packages",
+      "E:\\vs общие компоненты\\NuGetPackages"
+    ]
+  }
+}

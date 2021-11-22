@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rh78ceTaC+cuW967jgTUyHU7uj9s1QmZErUiWOPXirkF09rfMmWyQRJ7HGE6H/qvA1/mQGppakLfj8NgUWpDYg==",
+  "success": true,
+  "projectFilePath": "E:\\vs проекты\\SMO_CAR 2.0\\SMO_CAR\\SMO_CAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

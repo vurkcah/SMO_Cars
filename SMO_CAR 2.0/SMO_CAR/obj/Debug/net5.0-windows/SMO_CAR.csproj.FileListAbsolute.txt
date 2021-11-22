@@ -1,0 +1,38 @@
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.exe
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.deps.json
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.runtimeconfig.json
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.runtimeconfig.dev.json
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.dll
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\ref\SMO_CAR.dll
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.pdb
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.AssemblyReference.cache
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.Form1.resources
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.GenerateResource.cache
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.AssemblyInfoInputs.cache
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.AssemblyInfo.cs
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.CoreCompileInputs.cache
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.dll
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\ref\SMO_CAR.dll
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.pdb
+D:\ВУЗ\СИ ШАРП\SMO_CAR\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.genruntimeconfig.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.exe
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.deps.json
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.runtimeconfig.json
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.runtimeconfig.dev.json
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.dll
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\ref\SMO_CAR.dll
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\bin\Debug\net5.0-windows\SMO_CAR.pdb
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.AssemblyReference.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.Form1.resources
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.GenerateResource.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.AssemblyInfoInputs.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.AssemblyInfo.cs
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.csproj.CoreCompileInputs.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.dll
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\ref\SMO_CAR.dll
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.pdb
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.genruntimeconfig.cache
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.Properties.Resources.resources
+E:\vs проекты\SMO_CAR 2.0\SMO_CAR\obj\Debug\net5.0-windows\SMO_CAR.USLOV.resources
